@@ -20,5 +20,11 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    VStack {
+        ContentView()
+        ContentView()
+            .environment(\.locale, .init(identifier: "es"))
+        ContentView()
+            .environment(\.locale, .init(identifier: "it"))
+    }
 }
