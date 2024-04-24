@@ -1,0 +1,6 @@
+*.DS_Store
+/.DS_Store
+*.xcuserstate
+/Mimetic/Mimetic.xcodeproj/project.xcworkspace/xcuserdata/patricio.xcuserdatad/UserInterfaceState.xcuserstate
+*.xcbkptlist
+*.xcconfig
