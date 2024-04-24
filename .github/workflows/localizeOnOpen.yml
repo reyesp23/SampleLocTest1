@@ -1,3 +1,7 @@
+# Feature A branch opens a PR with main as base.
+# String changes in Feature A are extracted and localized.
+# A translations PR with Feature Aas base is auto-generated.
+
 name: Localize - Opened PR
 on:
   pull_request:
